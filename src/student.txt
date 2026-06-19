@@ -1,0 +1,5 @@
+Alice
+Bob
+Charlie
+This is a sample file for WriteClass.
+End of file.
