@@ -1,2 +1,0 @@
-raja is learning java
-day1 : interface done
