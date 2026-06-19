@@ -1,5 +1,0 @@
-Alice
-Bob
-Charlie
-This is a sample file for FileCount.
-End of file.
